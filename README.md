@@ -1,4 +1,4 @@
-# MLops_G2JN: Automatic Pipeline for fixing uncertainties
+# MLops_G2JN: Generalized Automatic Pipeline for inspecting and fixing uncertainties in your data
 ## Introduction
 We present in this repo our pipeline spotting uncertaincies in a given dataset, and then applying automatic solution on inspected epistemic and aleatoric uncertainties.<br>
 - For inspecting uncertainties we use [MACEst](https://github.com/oracle/macest).
@@ -31,7 +31,6 @@ Please click here to inspect:<br>
 - [Final report](https://github.com/gilzeevi25/MLops_G2JN/blob/master/report/G2JN_Midterm_Report.pdf)
 
 ## Thanks for visiting
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=gilzeevi25.MLops_G2JN.issue.1) <br/>
 
 
 
